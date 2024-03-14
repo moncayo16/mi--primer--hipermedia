@@ -5,10 +5,8 @@ function App() {
   return (
     <div className="mi app">
       <header className="App-header">
-        <img src= "http://imagenes.4ever.eu/abstractos/fondo-de-color-rosa-225918#google_vignette" className="App-logo" alt="logo" />
-        
         <p>
-          <code>src/App.js</code> Hola Clase Pro.
+          <code>src/App.js</code>Clase Progra.
         </p>
         <a>
           className="Claseprogramacion"
