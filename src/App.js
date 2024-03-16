@@ -6,7 +6,7 @@ function App() {
     <div className="mi app">
       <header className="App-header">
         <p>
-          <code>src/App.js</code>Clase Progra.
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a>
           className="Claseprogramacion"
